@@ -37,3 +37,5 @@ Interested in mobile development, frontend technologies, and personal knowledge 
 ## About Me
 
 - [Re:system — Profile & Links](https://haino357.github.io/SelfIntroductionPage/)
+
+[<img src="assets/profile-qr.png" alt="QR code for Re:system — Profile & Links" width="200" height="200">](https://haino357.github.io/SelfIntroductionPage/)
